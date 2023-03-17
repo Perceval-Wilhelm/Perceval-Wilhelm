@@ -1,16 +1,15 @@
-- 👀 I’m interested in programming, Artificial Intelligence and gamming. Especially, Valorant
-- 🌱 I’m currently learning Computer Science at University of Information Technology - VNUHCM and a Marketing member at Google Developer Student Clubs - UIT
+- 🌱  at University of Information Technology - VNUHCM and a Marketing member at Google Developer Student Clubs - UIT
 - 💞️ I’m looking to collaborate on Computer Vision field
 - 📫 You can reach me at my personal email: quocthinh.bui.6339@gmail.com
 
-## :octocat: **Bùi Quốc Thịnh or you can call me @sirrtt** 
+## :octocat: **Hi, I'm Bùi Quốc Thịnh or you can call me @sirrtt** 
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a student, developer and a passionate person :volcano:
+## I'm a student, developer and a gamer :volcano:
 
-- :raising_hand: I'm currently a Computer Science student at [University of Information and Technology](https://www.uit.edu.vn/).
-- :innocent: I love Machine Learning and Deep Learning.
+- :raising_hand: I’m currently learning Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
+- :innocent: I love interested in programming, Artificial Intelligence and gamming. Especially, Valorant.
 - :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
 
 
