@@ -16,6 +16,8 @@
 <img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
 <br><br>
 
+[<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+
 ## :hammer_and_wrench: Languages and Tools 
 <br>
 <div>
