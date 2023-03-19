@@ -12,11 +12,16 @@
 
 ## :mailbox_with_no_mail: Connect with me
 
-<a href="https://www.linkedin.com/in/tien-dang-anh-a2b364249/" target="_blank">
-<img align='left' width="26px" alt="Contact by linkein" src="image/linkein.svg"></a>
-<br><br>
+[<img align="left" alt="ngctnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ngctnnnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+
+<br />
+
+[facebook]: https://www.facebook.com/quocthinh.bui.38/
+[linkedin]: https://www.linkedin.com/in/thịnh-bùi/
+[twitter]: https://twitter.com/Sirr_tt2k2
 
 ## :hammer_and_wrench: Languages and Tools 
 <br>
