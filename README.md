@@ -12,16 +12,17 @@
 
 ## :mailbox_with_no_mail: Connect with me
 
-[<img align="left" alt="ngctnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ngctnnnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="sirr_tt | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="sirr_tt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sirr_tt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sirr_tt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 [facebook]: https://www.facebook.com/quocthinh.bui.38/
 [linkedin]: https://www.linkedin.com/in/thịnh-bùi/
 [twitter]: https://twitter.com/Sirr_tt2k2
+[instagram]: https://www.instagram.com/sirr_tt/
 
 ## :hammer_and_wrench: Languages and Tools 
 <br>
