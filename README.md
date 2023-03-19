@@ -1,5 +1,3 @@
-- 🌱  at University of Information Technology - VNUHCM and a Marketing member at Google Developer Student Clubs - UIT
-- 💞️ I’m looking to collaborate on Computer Vision field
 - 📫 You can reach me at my personal email: quocthinh.bui.6339@gmail.com
 
 ## :octocat: **Hi, I'm Bùi Quốc Thịnh or you can call me @sirrtt** 
@@ -9,8 +7,9 @@
 ## I'm a student, developer and a gamer :volcano:
 
 - :raising_hand: I’m currently learning Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
-- :innocent: I love interested in programming, Artificial Intelligence and gamming. Especially, Valorant.
-- :smiling_imp: I have knowledge in Computer Vision and Natuaral Language Processing area.
+- 🌱: I'm also a Marketing member at Google Developer Student Clubs - UIT
+- :innocent: I'm interested in programming, Artificial Intelligence and gamming. Especially, Valorant.
+- :smiling_imp: I have knowledge in Computer Vision area.
 
 
 ## :mailbox_with_no_mail: Connect with me
