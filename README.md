@@ -1,5 +1,3 @@
-- 📫 You can reach me at my personal email: quocthinh.bui.6339@gmail.com
-
 ## :octocat: **Hi, I'm Bùi Quốc Thịnh or you can call me @sirrtt** 
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
