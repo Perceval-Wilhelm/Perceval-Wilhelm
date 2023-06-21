@@ -38,6 +38,11 @@
 ## :trophy: My accomplishments
 
 - [Coursera's Problem Solving Using Computational Thinking](https://coursera.org/share/2c930cd6ffaf1d0e69c316741f2077da)
+- [Coursera's Create Your First Python Program From UST](https://coursera.org/share/189791b6fbad9e412f3ec2531f11ef9a)
+- [Coursera's Linear Regression with NumPy and Python](https://coursera.org/share/95598cd41d0faeee2c86b20daa60385e)
+- [Coursera's Supervised Machine Learning: Regression and Classification](https://coursera.org/share/a8092356489a2e625e54dcdcfcac0846)
+- [Coursera's Build a Data Science Web App with Streamlit and Python](https://coursera.org/share/3041409ec0141dd2afbf7374485ba2e0)
+- [Coursera's Crash Course on Python](https://coursera.org/share/bbeab5e07f3bca2373b4c4a6531173b1)
 
 ## :fire: My Stats 
 
