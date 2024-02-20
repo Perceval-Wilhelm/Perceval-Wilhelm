@@ -2,11 +2,11 @@
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a student, developer and a gamer :volcano:
+## I'm a student and developer :volcano:
 
 - :raising_hand: I’m currently learning Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
-- 🌱: I'm also a Marketing member at Google Developer Student Clubs - UIT
-- :innocent: I'm interested in programming, Artificial Intelligence and gamming. Especially, Valorant.
+- 🌱: I'm also a former Marketing member at Google Developer Student Clubs - UIT
+- :innocent: I'm interested in programming, Artificial Intelligence, Image Processing and Computer Vision.
 - :smiling_imp: I have knowledge in Computer Vision area.
 
 
@@ -21,7 +21,6 @@
 
 [facebook]: https://www.facebook.com/quocthinh.bui.38/
 [linkedin]: https://www.linkedin.com/in/thịnh-bùi/
-[twitter]: https://twitter.com/Sirr_tt2k2
 [instagram]: https://www.instagram.com/sirr_tt/
 
 ## :hammer_and_wrench: Languages and Tools 
