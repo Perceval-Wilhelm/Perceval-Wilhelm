@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a student and developer :volcano:
+## I'm a student and AI Engineer :volcano:
 
 - :raising_hand: I’m currently learning Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
 - 🌱: I'm also a former Marketing member at Google Developer Student Clubs - UIT
