@@ -1,13 +1,13 @@
-## :octocat: **Hi, I'm Bùi Quốc Thịnh or you can call me @sirrtt** 
+## :octocat: **Hi, I'm Bùi Quốc Thịnh or you can call me Perceval Wilhelm** 
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a student and AI Engineer :volcano:
+## I'm a Backend student and AI Engineer :volcano:
 
-- :raising_hand: I’m currently learning Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
-- 🌱: I'm also a former Marketing member at Google Developer Student Clubs - UIT
-- :innocent: I'm interested in programming, Artificial Intelligence, Image Processing and Computer Vision.
-- :smiling_imp: I have knowledge in Computer Vision area.
+- :raising_hand: I've just graduated Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
+- 🌱: I'm also a former AI Intern at [EyeQ Tech](https://eyeq.tech), a former AI intern at [TMA Solutions](https://www.tma.vn), a former AI trainee at [The International Society of Data Scientists - George Washington Institute of Data Science and Artificial Intelligence](https://www.isods.org), a former Content Writer at [Google Developer Student Clubs - UIT](https://github.com/GDSC-UIT), a former Project Assistant and Marketing Intern at [Fulbright University Vietnam](https://fulbright.edu.vn/).
+- :innocent: I'm interested in Python programming, Artificial Intelligence, Image Processing and Computer Vision.
+- :smiling_imp: I have knowledge in Machine Learning, Deep Learning and Computer Vision area.
 
 
 ## :mailbox_with_no_mail: Connect with me
