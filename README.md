@@ -47,7 +47,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Perceval-Wilhelm&theme=gruvbox&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sirrtt&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Perceval-Wilhelm&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 sirrtt/sirrtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
