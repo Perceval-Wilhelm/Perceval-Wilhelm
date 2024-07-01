@@ -19,8 +19,8 @@
 <br />
 
 [facebook]: https://www.facebook.com/quocthinh.bui.38/
-[linkedin]: https://www.linkedin.com/in/thịnh-bùi/
-[instagram]: https://www.instagram.com/sirr_tt/
+[linkedin]: https://www.linkedin.com/in/percevalwilhelm/
+[instagram]: https://www.instagram.com/perceval_wilhelm/
 
 ## :hammer_and_wrench: Languages and Tools 
 <br>
@@ -41,6 +41,9 @@
 - [Coursera's Supervised Machine Learning: Regression and Classification](https://coursera.org/share/a8092356489a2e625e54dcdcfcac0846)
 - [Coursera's Build a Data Science Web App with Streamlit and Python](https://coursera.org/share/3041409ec0141dd2afbf7374485ba2e0)
 - [Coursera's Crash Course on Python](https://coursera.org/share/bbeab5e07f3bca2373b4c4a6531173b1)
+- [Coursera's Introduction to Deep Learning & Neural Networks with Keras](https://coursera.org/share/e3190c2290ec7dc5ffc1ec1a5d1da529)
+- [Coursera's Advanced Learning Algorithms](https://coursera.org/share/446849656f6d423e21b40fba69e41001)
+- [Coursera's Machine Learning with Python](https://coursera.org/share/aeddd844b7cce65f8a916588f17186c0)
 
 ## :fire: My Stats 
 
