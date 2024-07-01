@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="30%" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
-## I'm a Backend student and AI Engineer :volcano:
+## I'm a Backend student and an AI Engineer :volcano:
 
 - :raising_hand: I've just graduated Computer Science at [University of Information and Technology - VNUHCM](https://www.uit.edu.vn/).
 - 🌱: I'm also a former AI Intern at [EyeQ Tech](https://eyeq.tech), a former AI intern at [TMA Solutions](https://www.tma.vn), a former AI trainee at [The International Society of Data Scientists - George Washington Institute of Data Science and Artificial Intelligence](https://www.isods.org), a former Content Writer at [Google Developer Student Clubs - UIT](https://github.com/GDSC-UIT), a former Project Assistant and Marketing Intern at [Fulbright University Vietnam](https://fulbright.edu.vn/).
@@ -12,9 +12,9 @@
 
 ## :mailbox_with_no_mail: Connect with me
 
-[<img align="left" alt="sirr_tt | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="sirr_tt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sirr_tt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="perceval_wilhelm | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="perceval_wilhelm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="perceval_wilhelm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -25,12 +25,13 @@
 ## :hammer_and_wrench: Languages and Tools 
 <br>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=50 height=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=50 height=50/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width=50 height=50/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width=50 height=50/>
 </div>
 
 ## :trophy: My accomplishments
